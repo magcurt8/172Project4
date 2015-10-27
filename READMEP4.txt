@@ -13,4 +13,7 @@ Code can be run in Eclipse
 Code can be run in Terminal
 cd Desktop 
 javac Test.java
+example command line arguments:
+for Kruskal’s: ur_campus.txt -show -meridianmap
+for Dijkstra’s: nys.txt -show -directions i0 i200
 java Test
